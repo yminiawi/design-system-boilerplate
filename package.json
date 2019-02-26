@@ -1,4 +1,12 @@
 {
+  "name": "design-system-boilerplate",
+  "version": "0.0.1",
+  "description": "Boilerplate design system template for use with client design systems showing styles, patterns and components",
+  "author": "yminiawi <yousuf.el-miniawi@soprasteria.com>",
+  "homepage": "http://www.miniawi.com",
+  "private": true,
+  "license": "MIT",
+
   "private": true,
   "engines": {
     "node": ">=4"
